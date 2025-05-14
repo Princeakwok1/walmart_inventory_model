@@ -1,4 +1,4 @@
-# walmart_inventory_model
+# Module 2 Assignment. walmart_inventory_model
 
 # Step 1: Data Collection
 
